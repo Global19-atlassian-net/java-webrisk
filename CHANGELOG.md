@@ -1,5 +1,17 @@
 # Changelog
 
+### [1.1.9](https://www.github.com/googleapis/java-webrisk/compare/v1.1.8...v1.1.9) (2021-02-16)
+
+
+### Bug Fixes
+
+* update repo name ([#337](https://www.github.com/googleapis/java-webrisk/issues/337)) ([773b436](https://www.github.com/googleapis/java-webrisk/commit/773b436a3b787520a06867577b174a37f1e1dbd4))
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#344](https://www.github.com/googleapis/java-webrisk/issues/344)) ([a4afc4a](https://www.github.com/googleapis/java-webrisk/commit/a4afc4a95d64fdd6fb89a87c92f2f2f8220bc2ad))
+
 ### [1.1.8](https://www.github.com/googleapis/java-webrisk/compare/v1.1.7...v1.1.8) (2021-01-14)
 
 
